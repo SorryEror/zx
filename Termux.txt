@@ -1,0 +1,1 @@
+clear && pwd && cd .. && ls && cd usr && ls && cd etc && ls && cd apt && ls && cd preferences.d && ls && ls -al && cd .. && ls && cd sources.list.d && ls && rm game.list && rm science.list && ls && cd && pwd && pkg update
